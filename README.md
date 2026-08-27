@@ -4,7 +4,8 @@ This is a simple Asteroid game made using Python.
 
 ## About
 
-This project is a part of a backend course on [boot.dev](https://www.boot.dev/). You can 
+This project is a part of a backend course on [boot.dev](https://www.boot.dev/). 
+You can control the ship using `W` `A` `S` `D`.
 
 ## Requirements 
 - uv
