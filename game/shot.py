@@ -1,7 +1,7 @@
 from typing import override
 
-from circleshape import CircleShape
-from constants import SHOT_RADIUS
+from .circleshape import CircleShape
+from .constants import SHOT_RADIUS
 import pygame
 
 
